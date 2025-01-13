@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=대한항공%20빈좌석%20감지)
 
-# 다함께 꼬맨틀이란?
-
 항공권 예약하려했는데! 매진이라 막막하신가요?
 
 대한항공 항공권 빈좌석이 생기면 알려드려요
@@ -15,7 +13,7 @@
 1. 소스 다운로드
 2. .env 파일 만들어서 환경변수 입력
 3. 필요한 라이브러리 설치
-4. main.py에서 출발지, 목적지 코드에서 변경
+4. main.py에서 출발지, 목적지 변경
 5. main.py실행
 6. GUI 나타나면 날짜 선택
 7. 시작
